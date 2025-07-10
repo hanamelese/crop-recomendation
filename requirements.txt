@@ -3,3 +3,8 @@ scikit-learn
 streamlit
 joblib
 spacy
+google-generativeai
+openai
+textblob
+transformers
+datasets
