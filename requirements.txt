@@ -1,10 +1,12 @@
-pandas
-scikit-learn
-streamlit
-joblib
-spacy
+python-dotenv
 google-generativeai
 openai
 textblob
 transformers
 datasets
+requests
+pandas
+scikit-learn
+streamlit
+joblib
+dotenv
